@@ -1,0 +1,41 @@
+Name		    x1	x2	x3	x4	x5	x6
+Saul Niguez	    70	77	79	82	78	76
+Koke		    69	75	88	82	69	78
+Arturo Vidal 	57	80	79	78	84	83
+Daniel Parejo	47	80	88	79	71	71
+Ivan Rakitic	62	84	87	82	72	69
+Casemiro	    62	69	75	72	87	88
+Sergio Busquets	43	62	79	78	85	80
+Isco    	    72	81	85	92	61	62
+Toni Kroos	    67	82	89	82	74	69
+Luka Modric     76	76	90	91	70	67
+Daniel Carvajal	82	45	73	79	82	78
+Sergi Roberto	78	63	81	77	80	71
+Filipe Luis	    75	62	78	79	81	79
+Raphael Varane	84	45	61	65	86	80
+Samuel Umtiti	72	64	71	72	88	82
+Jordi Alba      93	69	79	83	79	72
+Pique		    55	61	69	66	87	76
+Marcelo		    82	71	83	90	81	82
+Diego Godin     68	48	65	64	89	84
+Sergio Ramos	75	63	71	72	91	84
+Moussa Dembele	72	70	77	87	78	82
+Fabinho 	    71	69	78	77	84	84
+Nemanja Matic	56	71	79	76	83	83
+Fernandinho	    67	74	78	79	83	79
+Mesut Ozil      70	73	86	84	24	58
+Christian Eriks 74	82	89	86	53	64
+Paul Pogba 	    75	79	86	85	69	87
+David Silva 	66	74	87	91	50	60
+N'Golo Kante	80	66	77	81	87	84
+Kevin De Bruyne	77	86	92	87	60	78
+David Luiz	    61	65	73	71	82	77
+Davinson Sanche 76	45	55	67	84	82
+Kyle Walker     90	63	75	77	81	80
+Sokratis Papast	69	51	50	61	84	82
+Alderweireld    62	57	72	66	88	78
+Vincent Kompany 56	54	65	66	85	81
+Virgil van Dijk 71	60	67	70	85	84
+Cesar Azpilicue 76	55	78	74	87	77
+Nicolas Otamend 60	57	63	61	86	80
+Jan Vertonghen	63	63	73	72	88	79
