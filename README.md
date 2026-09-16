@@ -1,13 +1,14 @@
 # Sportsmen Classification App
 
-A Unity app that learns from two groups of football players, forwards and midfielders, and predicts which group a new player belongs to.
+A Unity app that classifies a football player as **attacking** or **defensive** from their test results, using linear discriminant analysis.
 
 ## How it works
 
-- Each player is described by six FIFA-style ratings: pace, shooting, passing, dribbling, defending and physical.
-- The training data lives in `Assets/Raw/Class1.txt` (forwards) and `Assets/Raw/Class2.txt` (midfielders).
-- The classifier is statistical: it computes the mean vector and covariance matrix of each group and assigns a new player to the closer group.
-- The app lets you enter a player's ratings, run the prediction, validate the model and manage the player database.
+- The training data is two groups of real players with six FIFA-style ratings each: `Assets/Raw/Class1.txt` (attacking) and `Assets/Raw/Class2.txt` (defensive).
+- The app computes each group's mean vector and the covariance matrix, then builds a linear discriminant function.
+- You enter a new player's name and 12 test results. The app turns them into the same six ratings and the sign of the discriminant decides the group.
+- Players can be added to either group, the database can be browsed, and cross-validation checks the model.
+- After the result, the app offers training videos for that player type in a web view.
 
 ## Tech
 
@@ -17,6 +18,6 @@ A Unity app that learns from two groups of football players, forwards and midfie
 
 ## Run
 
-Open the project in Unity and start the `startScreen` scene.
+Open the project in Unity and start the `StartScreen` scene.
 
 Built in 2020.
